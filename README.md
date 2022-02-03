@@ -18,8 +18,10 @@ Data set:
 Data set required for experiment is added as CSV file.
 Editing Metadata:
 It is used to change data type of fields, etc.
+
 Splitting data: 
 Split the data for training and evaluation.
+
 Score labels: 
 Score labels provide the output . We can visualize the datasets.
 Evaluate model: 
