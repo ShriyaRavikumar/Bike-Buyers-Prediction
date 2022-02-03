@@ -13,22 +13,33 @@ Microsoft Azure Machine Learning Studio is used to create, train and evaluate th
 ![image](https://user-images.githubusercontent.com/89641257/152339255-4ba4949f-776b-49cf-b6dc-6bfdfc5310a3.png)
 # DETAILED DESCRIPTION OF THE PROJECT
 Create Project/Experiment and import the data set from local file system. After creating experiment, we need to drag and drop the required modules.
+
 The following are the modules I have used in my project:
-Data set: 
+
+Data set:
+
 Data set required for experiment is added as CSV file.
+
 Editing Metadata:
+
 It is used to change data type of fields, etc.
 
-Splitting data: 
+Splitting data:
+
 Split the data for training and evaluation.
 
-Score labels: 
+Score labels:
+
 Score labels provide the output . We can visualize the datasets.
+
 Evaluate model: 
+
 Evaluate model will give the accurate values. The model gives an accuracy of 96.9% and precision of 93.6%.
 After creating these models, run the model by clicking run button which is in the bottom side. After running successfully, we can score and evaluate the model.
 # DEPLOYING THE MODEL
 Deploy the model by Setting up Web Service in Machine Learning Studio. If it is first time, select Update Predictive Experiment. After deployment of model, it can be used in webs.
+
 Consumption options:
+
 Excel 2010 or earlier
 Request-Response Web App Template
